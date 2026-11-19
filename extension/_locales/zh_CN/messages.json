@@ -1,0 +1,15 @@
+{
+  "extName": { "message": "蓝牙电量环" },
+  "extDesc": { "message": "蓝牙耳机电量环：正常绿色、低于 20% 变红，鼠标悬停显示百分比。" },
+  "reading": { "message": "读取中…" },
+  "refresh": { "message": "刷新" },
+  "connected": { "message": "已连接" },
+  "disconnected": { "message": "未连接" },
+  "notConnected": { "message": "耳机未连接" },
+  "readFailed": { "message": "读取失败" },
+  "runInstaller": { "message": "（请先运行安装器；若已安装，请彻底退出并重新打开 Chrome）" },
+  "timeout": { "message": "读取超时（请确认本机读取程序已安装）" },
+  "unknown": { "message": "未知错误" },
+  "batteryLabel": { "message": "蓝牙电量" },
+  "modelUnknown": { "message": "蓝牙耳机" }
+}

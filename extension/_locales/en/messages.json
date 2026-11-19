@@ -1,0 +1,15 @@
+{
+  "extName": { "message": "Bluetooth Battery Ring" },
+  "extDesc": { "message": "Battery ring for Bluetooth headsets: green normally, red below 20%; hover to see the percentage." },
+  "reading": { "message": "Reading…" },
+  "refresh": { "message": "Refresh" },
+  "connected": { "message": "Connected" },
+  "disconnected": { "message": "Disconnected" },
+  "notConnected": { "message": "Headset not connected" },
+  "readFailed": { "message": "Read failed" },
+  "runInstaller": { "message": " (install the reader; if already installed, fully quit and reopen Chrome)" },
+  "timeout": { "message": "Timed out (make sure the native reader is installed)" },
+  "unknown": { "message": "Unknown error" },
+  "batteryLabel": { "message": "Bluetooth Battery" },
+  "modelUnknown": { "message": "Bluetooth headset" }
+}
